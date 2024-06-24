@@ -1,0 +1,20 @@
+body{
+    color:whitesmoke;
+    background-image: url(black\ blur.jpg);
+}
+strong{
+    color: #ffee00;
+}
+h2{
+     color: #4ff8ea;
+}
+img{
+    margin-left: 300px;
+    border: 3px solid black;
+       
+  
+    top: -40px;        
+    left: -30px;       
+    width: 300px;     
+    height: 200px; 
+}

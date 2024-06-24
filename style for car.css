@@ -1,0 +1,31 @@
+h1{
+    font-style: Times new Roman;
+    font-size: 30px;
+    margin-left: 600px;
+   
+}
+p{
+    font-style: Times new Roman;
+    font-size: 30px;
+     
+}
+ul{
+    font-style: Times new Roman;
+    font-size: 30px;
+    
+}
+body{
+    background-image: url(bg.png.jpeg);
+    background-size: cover;
+
+}
+.ed{
+    width: 780px;
+    height: 50px;
+    text-align: justify;
+    display: inline-block;
+    margin-left: 10px;
+   
+    
+  
+}
