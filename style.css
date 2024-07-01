@@ -265,35 +265,6 @@ footer {
     font-size: small;
 }
 
-.footer-social {
-    flex: 1;
-    text-align: left;
-}
-
-.footer-social ul {
-    list-style-type: none;
-    padding: 0;
-    display: flex;
-    justify-content: flex-end;
-    gap: 10px;
-    margin: 0;
-}
-
-.footer-social ul li {
-    display: inline;
-}
-
-.footer-social ul li a {
-    color: #fff;
-    text-decoration: none;
-    font-size: 25px;
-    transition: color 0.3s;
-}
-
-.footer-social ul li a:hover {
-    color: #ddd;
-}
-
 .footer-copy {
     position: absolute;
     bottom: 10px;
